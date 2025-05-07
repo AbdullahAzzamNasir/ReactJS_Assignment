@@ -3,7 +3,7 @@ import employeeJohn from "../assets/img_avatar.png";
 import employeeJane from "../assets/img_avatar2.png";
 import employeeWood from "../assets/image-01.webp";
 import employeeKayle from "../assets/image-02.webp";
-import CEO from "../assets/image-04.avif";
+import CEO from "../assets/CEO.webp";
 import heartIcon from "../assets/heart.png"
 import cartIcon from "../assets/cart.png"
 import eyeIcon from "../assets/eye.png"
